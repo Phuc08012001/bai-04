@@ -1,0 +1,39 @@
+.color-red{
+    color: red;
+}
+.color-green{
+    color: green;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+.hinhanh{
+    width: 100%;
+    height: 200px;
+    background-image: url(/bai-04/images/image-2.jpg);
+    background-attachment: fixed;
+    
+}
+.box1{
+    border: 5px solid black;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 30px;
+  }
+.box2{
+    border: 10px dashed #ccc;
+    background-color: red;
+    color: white;
+    text-align: right;
+    padding: 30px;
+    margin-top: 20px;
+    background-clip: padding-box;
+}
+.font-arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
